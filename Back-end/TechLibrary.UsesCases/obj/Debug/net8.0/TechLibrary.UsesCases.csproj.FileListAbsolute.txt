@@ -1,0 +1,5 @@
+C:\Code\TechLibrary\TechLibrary.UsesCases\obj\Debug\net8.0\TechLibrary.UsesCases.csproj.AssemblyReference.cache
+C:\Code\TechLibrary\TechLibrary.UsesCases\obj\Debug\net8.0\TechLibrary.UsesCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\TechLibrary\TechLibrary.UsesCases\obj\Debug\net8.0\TechLibrary.UsesCases.AssemblyInfoInputs.cache
+C:\Code\TechLibrary\TechLibrary.UsesCases\obj\Debug\net8.0\TechLibrary.UsesCases.AssemblyInfo.cs
+C:\Code\TechLibrary\TechLibrary.UsesCases\obj\Debug\net8.0\TechLibrary.UsesCases.csproj.CoreCompileInputs.cache
